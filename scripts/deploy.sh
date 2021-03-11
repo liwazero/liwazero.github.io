@@ -7,7 +7,6 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-push_time="${date '+%Y-%m-%d %H:%M:%S'}"
-git commit -m "【deploy success】:${push_time}"
+git commit -m "【deploy success】"
 
-git push -f git@github.com:liwazero/liwazero.github.io.git master
+git push origin -f git@github.com:liwazero/liwazero.github.io.git develop
