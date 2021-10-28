@@ -15,3 +15,25 @@ this is a paragraph
 
 paragraph with line break
 continue
+
+###### bold
+love**is**bold
+
+###### italic
+a*cat*meow
+
+###### bold and italic 
+this is a bold and italic text***bold and italic***text
+
+###### blockquotes
+>this is paragraph with blockquotes
+
+>this is paragraph with blockquotes more line
+>
+>second line
+
+>this is nested italic
+>
+>>nested paragraph
+
+
